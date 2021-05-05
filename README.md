@@ -1,4 +1,5 @@
 # An Exploration of Extreme Value Analysis with an Applied Example of the Block Maxima Approach
+## Jessica Robinson, Department of Statistics, Oregon State University  
 
 This project is in partial fulfillment of the requirements for the M.S. degree in Statistics at Oregon State University.  
   

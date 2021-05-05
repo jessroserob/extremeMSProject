@@ -1,6 +1,7 @@
 # An Exploration of Extreme Value Analysis with an Applied Example of the Block Maxima Approach
 
 This project is in partial fulfillment of the requirements for the M.S. degree in Statistics at Oregon State University.  
+  
 A theoretical foundation for extreme value analysis is provided as well as a demonstrative example of the block maxima approach, a main facet of EVA. The example consists of a light bulb manufacturer interested in understanding the particularly large lifespans of their light bulbs. The block maxima approach is applied to this manufacturers monthly sample maximum light bulb lifespans, with which a generalized extreme value distribution is fit.   
 
 Files provided in this repository are  
